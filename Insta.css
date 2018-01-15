@@ -1,0 +1,69 @@
+.ntrp{
+background-color:#FFFFFF;
+border-bottom: 1px solid rgba(0, 0, 0, 0.098);
+height: 68px;
+display:flex;
+align-items:center;
+justify-content:space-around;
+flex-wrap:wrap;
+}
+.imput{
+background:url(/home/shan1/Téléchargements/loupe.png)no-repeat;
+background-color:#FAFAFA;
+background-position:75%;
+margin-left:140px;
+background-size:12px;
+border: solid 1px #dbdbdb;
+text-align:center;
+width:180px;
+height:23px;
+}
+.container{
+background:#FAFAFA;
+padding-top:56px;
+margin:0 auto;
+width:1300px;
+height:auto;
+border-radius:3px;
+}
+.rugby{
+ display: block;
+    margin: auto;
+    width: 100%;
+}
+.card{
+padding-top:56px;
+box-sizing:border-box;
+overflow:auto;
+background:white;
+overflow:auto;
+margin:0 auto;
+width:580px;
+height:550px;
+border:1px solid #ccc;
+border-radius:3px; 
+}
+.card2{ 
+padding-top:56px;
+background:white;
+margin:0 auto;
+width:580px;
+height:550px;
+border:1px solid #ccc;
+border-radius:3px;
+
+}
+.robo{
+ display: block;
+}
+.root{
+border-bottom: 1px solid #efefef;
+}
+.card-footer{
+}
+.description {
+margin: 0;
+}
+.username{
+font-family:0
+}
